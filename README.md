@@ -1,6 +1,7 @@
-# U Penn Computing Training for Summer Research Undergraduates 
+# Tutorials used for Penn Astrophysics Seminar and Penn Data Science Workshops
 
-This training goes over some computing basics that may be useful for undergraduate students just beginning their Physics and Astronomy research. 
+## 0. Data Science for Python
+Data Cleaning, Visualization and Analysis via Princial Component Analysis; Classification: K-Nearest Neighbors; Regression: Linear Regression; and Clustering: K-Mean as well as Recommended Learning Resources
 
 ## 1. Basic command line and bash 
 Basics of interacting with a terminal, its files and improving the experience of those interactions by modifying your environments. 
